@@ -1,0 +1,384 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background: url(tesla\ car1.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    top: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    
+    
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    float: left;
+    
+}
+.logo img{
+    width: 250px;
+    height: 40px;
+    padding-top: 25px;
+    padding-left: 30px;
+    color: #171a20;;
+}
+.list{
+    width: 52%;
+    height: 100%;
+    background-color: transparent;
+    
+    float: left;
+}
+.list li{
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+}
+.menu{
+    width: 18%;
+    height: 100%;
+    float: left;
+    margin-top: 10px;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-left: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
+.m1{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    text-align: center;
+    
+    
+}
+.m1 h1{
+    padding-top: 20px;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+    
+}
+.m2{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    
+}
+.m2 h1{
+    font-size: 30px;
+    font-weight: 300;
+    
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+    
+}
+
+.m2 span{
+    text-decoration: underline;
+    text-decoration-thickness: -10px;
+}
+.m3{
+    width: 100%;
+    height: 550px;
+    background-color: transparent;
+}
+.m4{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: transparent;
+}
+.m4 button{
+    font-size: 20px;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #fff;
+
+    border-radius: 30px;
+    margin-left: 50px;
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+    
+}
+#b1{
+
+    background-color: rgba(23, 26, 32, 0.8);
+    backdrop-filter: 8px;
+    font-weight: 600;
+
+}
+#b2 {
+    background-color:  hsla(0, 40%, 92%, 0.8);
+    backdrop-filter: 8px;
+    color: #171a20;
+    font-weight: 300;
+    
+}
+.main2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(model\ y.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    
+}
+.main3{
+    width: 100%;
+    height: 100vh;
+    background-image: url(model\ s.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    
+}
+.main4{
+    width: 100%;
+    height: 100vh;
+    background-image: url(model\ x.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    
+}
+.main5{
+    width: 100%;
+    height: 100vh;
+    background-image: url(solar\ panel.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+}
+.s1{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+}
+.s2{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.s2 h1{
+    padding-top: 20px;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
+.s3{  width: 100%;
+    height: 50px;
+    text-align: center;
+
+}
+.s3 h1{
+    font-size: 30px;
+    font-weight: 300;
+    
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
+.s4{
+    width: 100%;
+    height: 550px;
+    background-color: transparent;
+}
+.s5{   width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: transparent;
+
+}
+.s5 button{
+    font-size: 20px;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #fff;
+
+    border-radius: 30px;
+    margin-left: 50px;
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+#b3{
+    background-color: rgba(23, 26, 32, 0.8);
+    backdrop-filter: 8px;
+    font-weight: 600;
+
+}
+#b4{
+    background-color:  hsla(0, 40%, 92%, 0.8);
+    backdrop-filter: 8px;
+    color: #171a20;
+    font-weight: 300;
+
+}
+.main6{
+    width: 100%;
+    height: 100vh;
+    background-image: url(solar\ roof.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+}
+.f1{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+
+}
+.f2{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+
+}
+.f2 h1{
+    padding-top: 20px;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
+.f3{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+
+}
+.f3 h1{
+    font-size: 30px;
+    font-weight: 300;
+    
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
+.main7{
+    width: 100%;
+    height: 100vh;
+    background-image: url(acessory.jpg);
+    background-color: rgba(0,0,0,0,5);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+}
+.d1{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+
+}
+.d2{width: 100%;
+    height: 100px;
+    text-align: center;
+
+}
+.d2 h1{
+
+    margin-top: 10px;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+}
+.d3{
+    width: 100%;
+    height: 630px;
+    background-color: transparent;
+
+}
+.d4{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: transparent;
+}
+.d4 button{
+    font-size: 20px;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #fff;
+
+    border-radius: 30px;
+    margin-left: 50px;
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#b5{
+    background-color: rgba(23, 26, 32, 0.8);
+    backdrop-filter: 8px;
+    font-weight: 600;
+
+}
+.d5{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    text-align: center;
+    float: left;
+    
+}
+.k{
+    width: 30%;
+    height: 100px;
+    background-color: transparent;
+    float: left;
+}
+.d5 li{
+    float: left;
+    padding-left: 20px;
+
+    text-align: center;
+    list-style: none;
+    margin-left: 0px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Gotham SSm",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color:  #171a20;;
+
+}
